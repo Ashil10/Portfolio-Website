@@ -1,7 +1,7 @@
 # 🌐 Portfolio Website
 
-#Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a developer.
-This was done to gain experience using SASS CSS 
+ Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a developer.
+# This was done to gain experience using SASS CSS 
 
 ## 🚀 Features
 
